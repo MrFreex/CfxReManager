@@ -1,0 +1,10 @@
+C:\Users\fillo\source\repos\CfxRe Manager by Mrfreex\bin\Release\CfxRe Manager by Mrfreex.exe.config
+C:\Users\fillo\source\repos\CfxRe Manager by Mrfreex\bin\Release\CfxRe Manager by Mrfreex.exe
+C:\Users\fillo\source\repos\CfxRe Manager by Mrfreex\bin\Release\CfxRe Manager by Mrfreex.pdb
+C:\Users\fillo\source\repos\CfxRe Manager by Mrfreex\obj\Release\CfxRe_Manager_by_Mrfreex.Form1.resources
+C:\Users\fillo\source\repos\CfxRe Manager by Mrfreex\obj\Release\CfxRe_Manager_by_Mrfreex.Properties.Resources.resources
+C:\Users\fillo\source\repos\CfxRe Manager by Mrfreex\obj\Release\CfxRe Manager by Mrfreex.csproj.GenerateResource.cache
+C:\Users\fillo\source\repos\CfxRe Manager by Mrfreex\obj\Release\CfxRe Manager by Mrfreex.csproj.CoreCompileInputs.cache
+C:\Users\fillo\source\repos\CfxRe Manager by Mrfreex\obj\Release\CfxRe Manager by Mrfreex.exe
+C:\Users\fillo\source\repos\CfxRe Manager by Mrfreex\obj\Release\CfxRe Manager by Mrfreex.pdb
+C:\Users\fillo\source\repos\CfxRe Manager by Mrfreex\obj\Release\CfxRe Manager by Mrfreex.csprojAssemblyReference.cache
